@@ -5,7 +5,7 @@
 **ACL 2025 Findings**  
 📄 *Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Language Models*
 
-[![Paper](https://img.shields.io/badge/Paper-Findings%20of%20ACL%202025-blue)](https://drive.google.com/file/d/1kUkUDzYmRDsSjc69F_mA3IEXZ1RP1G4o/view?usp=drive_link)
+[![Paper](https://arxiv.org/pdf/2411.14842)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
@@ -28,6 +28,6 @@ CAA offers:
 
 You can download the CAA benchmark from the following link:
 
-🔗 [Google Drive (360 samples)](https://drive.google.com/file/d/1kUkUDzYmRDsSjc69F_mA3IEXZ1RP1G4o/view?usp=drive_link)
+🔗 [Google Drive (CAA)](https://drive.google.com/file/d/1kUkUDzYmRDsSjc69F_mA3IEXZ1RP1G4o/view?usp=drive_link)
 
 ---
