@@ -26,10 +26,8 @@ CAA offers:
 
 ## 📥 Benchmark Download
 
-You can download the CAA benchmark from the following link:
+You can download the CAA benchmark from the following huggingface link:
 
-🔗 [Google Drive (CAA)](https://drive.google.com/file/d/1kUkUDzYmRDsSjc69F_mA3IEXZ1RP1G4o/view?usp=drive_link)
+https://huggingface.co/datasets/Yanda95/CAA
 
 ---
-
-## Detailed data in huggingface will come soon!
